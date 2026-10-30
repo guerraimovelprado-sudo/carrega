@@ -1,0 +1,7 @@
+REDIRECIONAMENTO AUTOMÁTICO
+
+Envie index.html e redirect.js para a mesma pasta na hospedagem.
+A página abre automaticamente https://anjodeluz.site/pedido/ na mesma aba.
+JavaScript: cerca de 0,7 segundo. Alternativa sem JavaScript: meta refresh em 1 segundo.
+Inclui link discreto caso o navegador bloqueie o redirecionamento.
+Não confirma idade, não coleta dados e não altera o site de destino.
